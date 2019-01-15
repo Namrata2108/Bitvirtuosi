@@ -1,1 +1,2 @@
 # Bitvirtuosi
+WEEK 1
